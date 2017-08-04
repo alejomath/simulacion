@@ -1,8 +1,8 @@
 # simulacion
 taller 1
 linea de codigos:
-a=1;             genera la variavle para el primer numero
-b=1;             genera la variavle para el segundo numero parte imaginaria la cual simpre sera 1 quedara estandar la aprte imaginaria
+a=1;             genera la variable para el primer numero
+b=1;             genera la variable para el segundo numero parte imaginaria la cual simpre sera 1 quedara estandar la aprte imaginaria
 for j=1:100      for para generar cierta cantidad de primos gaussianos
     a=a+1;       sumarle una unidad a la primera variable apra volver a evaluar
     v=[a,b];     vector a mostrar los dos numeros parte real e imaginaria de los numeros primos gaussianos 
